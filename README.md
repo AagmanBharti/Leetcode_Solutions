@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0813-all-paths-from-source-to-target) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0813-all-paths-from-source-to-target) |
 ## Binary Tree
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0813-all-paths-from-source-to-target) |
 ## Topological Sort
 |  |
 | ------- |
@@ -205,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+## Backtracking
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
