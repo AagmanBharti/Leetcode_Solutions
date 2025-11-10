@@ -240,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0813-all-paths-from-source-to-target) |
+## Database
+|  |
+| ------- |
+| [1278-product-price-at-a-given-date](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1278-product-price-at-a-given-date) |
 <!---LeetCode Topics End-->
