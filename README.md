@@ -245,4 +245,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1278-product-price-at-a-given-date](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1278-product-price-at-a-given-date) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1327-last-person-to-fit-in-the-bus) |
+| [2057-count-salary-categories](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2057-count-salary-categories) |
 <!---LeetCode Topics End-->
