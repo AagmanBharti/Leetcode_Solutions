@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0498-diagonal-traverse](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0518-coin-change-ii) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0890-lemonade-change](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0890-lemonade-change) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
