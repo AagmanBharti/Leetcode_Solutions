@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2634-minimum-common-value](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2634-minimum-common-value) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2634-minimum-common-value](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2634-minimum-common-value) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Binary Search
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1829-maximum-units-on-a-truck](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1829-maximum-units-on-a-truck) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Sliding Window
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0498-diagonal-traverse) |
 | [2058-concatenation-of-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2058-concatenation-of-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 ## Heap (Priority Queue)
 |  |
