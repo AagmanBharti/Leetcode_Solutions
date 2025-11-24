@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0518-coin-change-ii) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0890-lemonade-change](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0890-lemonade-change) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1470-shuffle-the-array) |
@@ -256,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-last-person-to-fit-in-the-bus](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [2057-count-salary-categories](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2057-count-salary-categories) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2127-employees-whose-manager-left-the-company) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1018-binary-prefix-divisible-by-5](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 <!---LeetCode Topics End-->
