@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0518-coin-change-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0518-coin-change-ii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0953-reverse-only-letters](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0953-reverse-only-letters) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
