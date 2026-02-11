@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Dynamic Programming
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Binary Search
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [3719-longest-balanced-subarray-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -306,10 +309,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Design
 |  |
 | ------- |
