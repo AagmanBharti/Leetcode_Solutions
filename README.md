@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0518-coin-change-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0518-coin-change-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0799-champagne-tower](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0799-champagne-tower) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
