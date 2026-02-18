@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0518-coin-change-ii) |
+| [0561-array-partition](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0890-lemonade-change](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0890-lemonade-change) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0561-array-partition](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1829-maximum-units-on-a-truck](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1829-maximum-units-on-a-truck) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0135-candy) |
+| [0561-array-partition](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0890-lemonade-change) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0561-array-partition) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3713-longest-balanced-substring-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3713-longest-balanced-substring-i) |
