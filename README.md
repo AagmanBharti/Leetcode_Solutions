@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1544-make-the-string-great](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1544-make-the-string-great) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1829-maximum-units-on-a-truck](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1829-maximum-units-on-a-truck) |
 | [1917-maximum-average-pass-ratio](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
