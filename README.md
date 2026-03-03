@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1544-make-the-string-great](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1544-make-the-string-great) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2058-concatenation-of-array) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [1013-fibonacci-number](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Memoization
 |  |
 | ------- |
