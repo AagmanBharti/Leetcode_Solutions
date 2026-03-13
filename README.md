@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3721-longest-balanced-subarray-ii) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2634-minimum-common-value](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2634-minimum-common-value) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sorting
 |  |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2199-two-furthest-houses-with-different-colors](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Counting Sort
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1917-maximum-average-pass-ratio](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Math
 |  |
 | ------- |
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Recursion
 |  |
