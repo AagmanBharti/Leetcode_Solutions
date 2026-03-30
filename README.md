@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0112-path-sum) |
+| [0404-sum-of-left-leaves](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0210-course-schedule-ii) |
+| [0404-sum-of-left-leaves](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0210-course-schedule-ii) |
+| [0404-sum-of-left-leaves](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0112-path-sum) |
+| [0404-sum-of-left-leaves](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Two Pointers
