@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Tree
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2573-find-the-string-with-lcp](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Counting Sort
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1668-maximum-repeating-substring) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Brainteaser
 |  |
 | ------- |
