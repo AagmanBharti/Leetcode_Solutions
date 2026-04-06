@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0746-min-cost-climbing-stairs](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0874-walking-robot-simulation](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0874-walking-robot-simulation) |
 | [0890-lemonade-change](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0890-lemonade-change) |
 | [0942-di-string-match](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0942-di-string-match) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1436-destination-city](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1436-destination-city) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0682-baseball-game) |
+| [0874-walking-robot-simulation](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0874-walking-robot-simulation) |
 | [1094-car-pooling](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1094-car-pooling) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1441-build-an-array-with-stack-operations) |
