@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2058-concatenation-of-array) |
+| [2069-walking-robot-simulation-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2288-count-operations-to-obtain-zero) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1622-fancy-sequence](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2069-walking-robot-simulation-ii) |
 ## Rolling Hash
 |  |
 | ------- |
