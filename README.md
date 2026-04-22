@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3905-multi-source-flood-fill](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3905-multi-source-flood-fill) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3905-multi-source-flood-fill](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3905-multi-source-flood-fill) |
 ## Stack
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3905-multi-source-flood-fill](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3905-multi-source-flood-fill) |
 ## Binary Tree
 |  |
 | ------- |
