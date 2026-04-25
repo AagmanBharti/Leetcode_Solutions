@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3355-zero-array-transformation-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3355-zero-array-transformation-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3355-zero-array-transformation-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3355-zero-array-transformation-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
