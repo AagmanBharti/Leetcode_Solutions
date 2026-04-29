@@ -505,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
+| [0203-remove-linked-list-elements](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [1013-fibonacci-number](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Memoization
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0146-lru-cache) |
+| [0203-remove-linked-list-elements](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
 ## Doubly-Linked List
 |  |
 | ------- |
