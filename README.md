@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0396-rotate-function) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -625,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1094-car-pooling) |
