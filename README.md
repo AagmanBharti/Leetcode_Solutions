@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0796-rotate-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0796-rotate-string) |
 | [0942-di-string-match](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0942-di-string-match) |
 | [0953-reverse-only-letters](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0953-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0796-rotate-string) |
 | [1668-maximum-repeating-substring](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1668-maximum-repeating-substring) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Brainteaser
