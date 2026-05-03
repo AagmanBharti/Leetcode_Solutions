@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0657-robot-return-to-origin) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0146-lru-cache) |
+| [0187-repeated-dna-sequences](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -617,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0078-subsets) |
+| [0187-repeated-dna-sequences](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0342-power-of-four) |
@@ -671,10 +675,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Queue
 |  |
