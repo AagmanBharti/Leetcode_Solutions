@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0066-plus-one) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
