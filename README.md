@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1109-corporate-flight-bookings) |
 | [1306-jump-game-iii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1306-jump-game-iii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1345-jump-game-iv](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1345-jump-game-iv) |
 | [1436-destination-city](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1436-destination-city) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
