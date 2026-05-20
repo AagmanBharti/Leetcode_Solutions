@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2463-minimum-total-distance-traveled) |
+| [2540-minimum-common-value](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2615-sum-of-distances) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1861-rotating-the-box) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2540-minimum-common-value](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
 | [2634-minimum-common-value](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2634-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1980-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2540-minimum-common-value](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2615-sum-of-distances) |
 | [2634-minimum-common-value](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2634-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2784-check-if-array-is-good) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
 | [2634-minimum-common-value](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2634-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
