@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1109-corporate-flight-bookings) |
 | [1306-jump-game-iii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1025-divisor-game) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1340-jump-game-v](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1340-jump-game-v) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1094-car-pooling](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1094-car-pooling) |
+| [1340-jump-game-v](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
