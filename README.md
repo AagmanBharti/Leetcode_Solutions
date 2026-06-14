@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1544-make-the-string-great) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2751-robot-collisions) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1861-rotating-the-box) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
 | [2634-minimum-common-value](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2634-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -847,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0086-partition-list) |
 | [0146-lru-cache](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
