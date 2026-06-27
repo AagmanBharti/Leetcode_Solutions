@@ -1,89 +1,66 @@
 class Solution {
-    static const int MOD = 1e9 + 7;
+public:
+    int M = 1e9 + 7;
+   long long power(long long a, long long b){
+        if(b == 0) return 1;
 
-    long long modpow(long long a, long long e) {
-        long long r = 1;
-        while (e) {
-            if (e & 1) r = r * a % MOD;
-            a = a * a % MOD;
-            e >>= 1;
+        long long half = power(a,b/2);
+        long long result = (half * half) % M;
+        if(b % 2 == 1){
+            result = (result * a) % M;
         }
-        return r;
+        return result;
     }
 
-public:
     int xorAfterQueries(vector<int>& nums, vector<vector<int>>& queries) {
         int n = nums.size();
-        int B = sqrt(n) + 1;
+        int blockSize = ceil(sqrt(n));
 
-        // events[k][rem] = list of (position, multiplier)
-        vector<vector<vector<pair<int,int>>>> events(B + 1);
-        for (int k = 1; k <= B; k++) {
-            events[k].resize(k);
+        unordered_map<int, vector<vector<int>>> smallKMap;
+
+        for(auto &query: queries){
+            int L = query[0];
+            int R = query[1];
+            int K = query[2];
+            int V = query[3];
+
+            if(K >= blockSize){
+                for(int i = L;i <= R; i+= K){
+                    nums[i] = 1LL * nums[i] * V % M;
+                }
+        } else {
+            smallKMap[K].push_back(query);
+        }
+    }
+
+    for(auto& [K,allQueries] : smallKMap){
+        vector<long long> diff(n,1);
+
+        for(auto& query: allQueries){
+            int L = query[0];
+            int R = query[1];
+            int V = query[3];
+
+            diff[L] = (1LL * diff[L] * V) % M;
+            int steps = (R-L)/K;
+            int next = L + (steps + 1)*K;
+            if(next < n) diff[next] = (1LL * diff[next] * power(V,M-2)) % M;
         }
 
-        // Process queries
-        for (auto &q : queries) {
-            int l = q[0], r = q[1], k = q[2], v = q[3];
-
-            if (k > B) {
-                // direct update
-                for (int i = l; i <= r; i += k) {
-                    nums[i] = (long long)nums[i] * v % MOD;
-                }
-            } else {
-                int rem = l % k;
-                int start = (l - rem) / k;
-                int end   = (r - rem) / k;
-
-                events[k][rem].push_back({start, v});
-
-                // range end => use modular inverse
-                int maxT = (n - 1 - rem) / k;
-                if (end + 1 <= maxT) {
-                    int inv = modpow(v, MOD - 2);
-                    events[k][rem].push_back({end + 1, inv});
-                }
-            }
+        for(int i = 0;i<n;i++){
+            if(i - K >= 0) diff[i] = (1LL * diff[i] * diff[i-K]) % M;
         }
 
-        // Apply small k events
-        for (int k = 1; k <= B; k++) {
-            for (int rem = 0; rem < k; rem++) {
-                auto &ev = events[k][rem];
-                if (ev.empty()) continue;
-
-                // sort events
-                sort(ev.begin(), ev.end());
-
-                // compress same positions
-                vector<pair<int,int>> comp;
-                for (auto &p : ev) {
-                    if (!comp.empty() && comp.back().first == p.first) {
-                        comp.back().second = (long long)comp.back().second * p.second % MOD;
-                    } else {
-                        comp.push_back(p);
-                    }
-                }
-
-                // apply prefix multiplication
-                long long cur = 1;
-                int ptr = 0;
-
-                for (int t = 0, idx = rem; idx < n; t++, idx += k) {
-                    while (ptr < comp.size() && comp[ptr].first == t) {
-                        cur = cur * comp[ptr].second % MOD;
-                        ptr++;
-                    }
-                    nums[idx] = nums[idx] * cur % MOD;
-                }
-            }
+        for(int i = 0;i < n;i++){
+            nums[i] = 1LL * nums[i] * diff[i] % M;
         }
+    }
 
-        // Compute XOR
-        int ans = 0;
-        for (int x : nums) ans ^= x;
-
-        return ans;
+    int result = 0;
+    for(int &num : nums){
+        result = (result ^ num);
+    }
+    return result;
+        
     }
 };
