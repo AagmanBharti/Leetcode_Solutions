@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0233-number-of-digit-one](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0233-number-of-digit-one) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -995,5 +997,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
