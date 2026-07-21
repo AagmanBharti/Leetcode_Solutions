@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0146-lru-cache) |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0060-permutation-sequence) |
