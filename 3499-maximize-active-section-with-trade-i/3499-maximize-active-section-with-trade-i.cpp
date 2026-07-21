@@ -20,7 +20,7 @@ public:
 
         while(i < n){
             int c1 = 0;
-            while(i < n && s[i] == '1'){
+            while(s[i] == '1'){
                 c1++;
                 i++;
             }
@@ -28,7 +28,7 @@ public:
             if(c1 == 0) break;
 
             int c2 = 0;
-            while(i < n && s[i] == '0'){
+            while(s[i] == '0'){
                 c2++;
                 i++;
             }
