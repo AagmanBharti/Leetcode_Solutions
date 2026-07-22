@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0307-range-sum-query-mutable](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0307-range-sum-query-mutable) |
+| [0322-coin-change](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0413-arithmetic-slices) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0233-number-of-digit-one) |
+| [0322-coin-change](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0733-flood-fill) |
