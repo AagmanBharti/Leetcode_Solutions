@@ -1,29 +1,24 @@
 class Solution {
 public:
-    int change(int amount, vector<int>& coins) {
-        int n=coins.size();
-        vector<unsigned int>prev(amount+1,0);
-        vector<unsigned int>curr(amount+1,0);
-
-        for(int idx=0;idx<n;idx++){
-            for(int amt=0;amt<amount+1;amt++){
-                if(amt==0){
-                    curr[amt]=1;
-                    continue;
-                }
-                if(idx==0){
-                    curr[amt]=amt%coins[idx]==0;
-                    continue;
-                }
-
-                unsigned int notTake=0;
-                if(idx>0)notTake=prev[amt];
-                unsigned int take=0;
-                if(coins[idx]<=amt)take=curr[amt-coins[idx]];
-                curr[amt]=notTake+take;
-            }
-            prev=curr;
+    int helper(int idx,int amount, vector<int>& coins, vector<vector<int>>& dp){
+        if(idx == 0){
+            return (amount % coins[0] == 0);
         }
-        return (int)prev[amount];
+        if(dp[idx][amount] != -1) return dp[idx][amount];
+
+        int notTake = helper(idx - 1,amount,coins,dp);
+        int take = 0;
+        if(coins[idx] <= amount){
+            take = helper(idx,amount - coins[idx],coins,dp);
+        }
+
+        return dp[idx][amount] = take + notTake;
+    }
+
+    int change(int amount, vector<int>& coins) {
+        int n = coins.size();
+        vector<vector<int>> dp(n,vector<int> (amount+1,-1));
+        int ans = helper(n-1,amount,coins,dp);
+        return ans;
     }
 };
