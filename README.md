@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0788-rotated-digits) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0541-reverse-string-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
