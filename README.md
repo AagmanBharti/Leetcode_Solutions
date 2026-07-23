@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0198-house-robber) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
