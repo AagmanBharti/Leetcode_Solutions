@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0300-longest-increasing-subsequence](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0322-coin-change) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0233-number-of-digit-one) |
+| [0300-longest-increasing-subsequence](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0377-combination-sum-iv) |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
