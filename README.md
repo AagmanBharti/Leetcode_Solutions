@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1626-best-team-with-no-conflicts](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1626-best-team-with-no-conflicts) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1626-best-team-with-no-conflicts](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1626-best-team-with-no-conflicts) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1668-maximum-repeating-substring](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1668-maximum-repeating-substring) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1626-best-team-with-no-conflicts](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1626-best-team-with-no-conflicts) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1829-maximum-units-on-a-truck](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1829-maximum-units-on-a-truck) |
