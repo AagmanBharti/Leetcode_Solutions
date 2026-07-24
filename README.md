@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0646-maximum-length-of-pair-chain](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0561-array-partition](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0645-set-mismatch) |
+| [0646-maximum-length-of-pair-chain](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0976-largest-perimeter-triangle](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1094-car-pooling](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1094-car-pooling) |
 | [1340-jump-game-v](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1340-jump-game-v) |
@@ -684,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0561-array-partition) |
+| [0646-maximum-length-of-pair-chain](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0890-lemonade-change) |
 | [0942-di-string-match](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0942-di-string-match) |
