@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1035-uncrossed-lines](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1035-uncrossed-lines) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1048-longest-string-chain](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1094-car-pooling](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1094-car-pooling) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1025-divisor-game) |
 | [1035-uncrossed-lines](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1035-uncrossed-lines) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1048-longest-string-chain](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
