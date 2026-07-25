@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0664-strange-printer](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0541-reverse-string-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0657-robot-return-to-origin) |
+| [0664-strange-printer](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0664-strange-printer) |
 | [0696-count-binary-substrings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0796-rotate-string) |
