@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1626-best-team-with-no-conflicts](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1626-best-team-with-no-conflicts) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1626-best-team-with-no-conflicts](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1626-best-team-with-no-conflicts) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1691-maximum-height-by-stacking-cuboids) |
