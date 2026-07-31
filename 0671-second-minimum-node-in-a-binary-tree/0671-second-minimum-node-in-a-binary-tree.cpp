@@ -18,6 +18,7 @@ public:
         if(root == NULL) return;
         if(root->val > minimum){
             secondMin = min(secondMin, (long)root->val);
+            return;
         }
         dfs(root->left);
         dfs(root->right);
