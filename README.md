@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
@@ -1051,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0078-subsets) |
+| [0095-unique-binary-search-trees-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0494-target-sum) |
@@ -1264,6 +1268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0501-find-mode-in-binary-search-tree) |
