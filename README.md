@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1306-jump-game-iii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0965-univalued-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0965-univalued-binary-tree) |
 | [1306-jump-game-iii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1345-jump-game-iv) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Two Pointers
