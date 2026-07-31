@@ -14,10 +14,7 @@ public:
     bool checkTree(TreeNode* root) {
         if(root == NULL) return true;
         int sum = 0;
-
-        if(root->left != NULL && root->right != NULL){
-            sum += (root->left->val + root->right->val);
-        }
+        sum += (root->left->val + root->right->val);
 
         if(root->val == sum) return true;
         return false;
