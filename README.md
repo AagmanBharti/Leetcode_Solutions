@@ -495,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0199-binary-tree-right-side-view](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
@@ -646,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0199-binary-tree-right-side-view](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
