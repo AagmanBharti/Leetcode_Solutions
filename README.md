@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0654-maximum-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0654-maximum-binary-tree) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0897-increasing-order-search-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0897-increasing-order-search-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
+| [0654-maximum-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0654-maximum-binary-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0654-maximum-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -698,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0654-maximum-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -1138,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0190-reverse-bits) |
 | [0307-range-sum-query-mutable](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0307-range-sum-query-mutable) |
+| [0654-maximum-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0654-maximum-binary-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -1398,4 +1404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0173-binary-search-tree-iterator) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
