@@ -1326,6 +1326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1791-find-center-of-star-graph](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2685-count-the-number-of-complete-components](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
