@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3905-multi-source-flood-fill](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3905-multi-source-flood-fill) |
 ## Dynamic Programming
 |  |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3905-multi-source-flood-fill](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3905-multi-source-flood-fill) |
 ## Stack
 |  |
@@ -1336,6 +1338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
