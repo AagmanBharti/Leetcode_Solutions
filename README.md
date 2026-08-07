@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1020-number-of-enclaves](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1035-uncrossed-lines](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1035-uncrossed-lines) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1048-longest-string-chain](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1048-longest-string-chain) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0965-univalued-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1306-jump-game-iii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1306-jump-game-iii) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -659,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0965-univalued-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1345-jump-game-iv) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1307,6 +1311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
