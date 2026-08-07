@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0130-surrounded-regions](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0139-word-break) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0130-surrounded-regions) |
 | [0498-diagonal-traverse](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0733-flood-fill) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -631,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0130-surrounded-regions](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0210-course-schedule-ii) |
@@ -1301,6 +1305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
