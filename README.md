@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1829-maximum-units-on-a-truck](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1829-maximum-units-on-a-truck) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1861-rotating-the-box) |
@@ -873,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
 | [2634-minimum-common-value](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2634-minimum-common-value) |
@@ -918,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1829-maximum-units-on-a-truck](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1829-maximum-units-on-a-truck) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2126-destroying-asteroids) |
@@ -955,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Greedy
@@ -983,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1829-maximum-units-on-a-truck](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1829-maximum-units-on-a-truck) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1917-maximum-average-pass-ratio](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2126-destroying-asteroids](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2126-destroying-asteroids) |
@@ -1265,6 +1270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1109-corporate-flight-bookings) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2574-left-and-right-sum-differences](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
