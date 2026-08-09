@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0799-champagne-tower) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-is-graph-bipartite](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0801-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-is-graph-bipartite](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0801-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -1066,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1094-car-pooling](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1094-car-pooling) |
@@ -1224,6 +1228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -1399,6 +1404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0997-find-the-town-judge) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
