@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1626-best-team-with-no-conflicts](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1626-best-team-with-no-conflicts) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1631-path-with-minimum-effort](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1631-path-with-minimum-effort](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1861-rotating-the-box](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -690,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2685-count-the-number-of-complete-components](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -880,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1631-path-with-minimum-effort](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -1065,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1094-car-pooling](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1094-car-pooling) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1631-path-with-minimum-effort](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -1351,6 +1357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1631-path-with-minimum-effort](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2573-find-the-string-with-lcp](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2685-count-the-number-of-complete-components](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -1529,4 +1536,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
