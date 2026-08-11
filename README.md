@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -1077,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0657-robot-return-to-origin) |
