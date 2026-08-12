@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1306-jump-game-iii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1340-jump-game-v) |
@@ -881,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0997-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1048-longest-string-chain) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1345-jump-game-iv](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1436-destination-city](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1436-destination-city) |
@@ -1029,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -1181,6 +1184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 | [1622-fancy-sequence](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1622-fancy-sequence) |
@@ -1361,6 +1365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1871-jump-game-vii) |
