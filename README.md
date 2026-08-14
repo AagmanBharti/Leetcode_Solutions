@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0827-making-a-large-island) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0874-walking-robot-simulation](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0874-walking-robot-simulation) |
+| [0875-koko-eating-bananas](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0890-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0904-fruit-into-baskets) |
@@ -959,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0778-swim-in-rising-water](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0875-koko-eating-bananas](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1631-path-with-minimum-effort](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
