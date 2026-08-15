@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0413-arithmetic-slices) |
 | [0485-max-consecutive-ones](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0494-target-sum) |
@@ -960,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0354-russian-doll-envelopes) |
+| [0410-split-array-largest-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -1085,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -1396,6 +1400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
