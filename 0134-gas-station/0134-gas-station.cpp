@@ -5,24 +5,25 @@ public:
         int totalCost = 0;
         int n = gas.size();
 
-        for(int i = 0;i<n;i++){
+        for(int i = 0; i < n; i++){
             totalGas += gas[i];
             totalCost += cost[i];
         }
 
         if(totalGas < totalCost) return -1;
-        int currGas = 0, startInd = 0;
 
-        for(int i = 0;i<n;i++){
+        int currGas = 0;
+        int startIdx = 0;
+
+        for(int i = 0; i < n;i++){
             currGas += gas[i] - cost[i];
 
             if(currGas < 0){
-                startInd = i + 1;
+                startIdx = i + 1;
                 currGas = 0;
             }
         }
 
-        return startInd;
-
+        return startIdx;
     }
 };
