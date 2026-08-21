@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0275-h-index-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0307-range-sum-query-mutable) |
@@ -975,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0275-h-index-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0354-russian-doll-envelopes) |
