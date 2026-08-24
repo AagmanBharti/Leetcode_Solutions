@@ -11,8 +11,7 @@ public:
         if (dp[i] != LLONG_MIN)
             return dp[i];
 
-        return dp[i] = max(maxDiff(i + 1),
-                           s[i] - maxDiff(i + 1));
+        return dp[i] = max(maxDiff(i + 1), s[i] - maxDiff(i + 1));
     }
 
     int stoneGameVIII(vector<int>& stones) {
