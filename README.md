@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3875-construct-uniform-parity-array-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3905-multi-source-flood-fill](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3905-multi-source-flood-fill) |
 ## Dynamic Programming
@@ -1317,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
