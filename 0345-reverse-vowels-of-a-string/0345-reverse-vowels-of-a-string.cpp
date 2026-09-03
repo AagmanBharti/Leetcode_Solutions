@@ -4,7 +4,9 @@ public:
         string word = s;
         int start = 0;
         int end = s.length() - 1;
+
         string vowels = "aeiouAEIOU";
+
         while (start < end) {
             while (start < end && vowels.find(word[start]) == string::npos) {
                 start++;
@@ -16,6 +18,7 @@ public:
             start++;
             end--;
         }
+        
         return word;
     }
 };
