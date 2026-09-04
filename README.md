@@ -468,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0897-increasing-order-search-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0721-accounts-merge) |
 | [0796-rotate-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0942-di-string-match) |
 | [0953-reverse-only-letters](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0953-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -897,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0844-backspace-string-compare) |
 | [0942-di-string-match](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0942-di-string-match) |
 | [0953-reverse-only-letters](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0953-reverse-only-letters) |
 | [1048-longest-string-chain](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1048-longest-string-chain) |
@@ -1225,6 +1228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0844-backspace-string-compare) |
 | [0874-walking-robot-simulation](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0874-walking-robot-simulation) |
 | [1094-car-pooling](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
