@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1544-make-the-string-great) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [2000-reverse-prefix-of-word](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2751-robot-collisions) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1980-find-unique-binary-string) |
+| [2000-reverse-prefix-of-word](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -918,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1768-merge-strings-alternately) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1861-rotating-the-box) |
+| [2000-reverse-prefix-of-word](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
