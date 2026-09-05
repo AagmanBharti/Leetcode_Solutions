@@ -1480,6 +1480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1278-product-price-at-a-given-date](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1278-product-price-at-a-given-date) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [2057-count-salary-categories](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2057-count-salary-categories) |
