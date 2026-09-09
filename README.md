@@ -601,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -1181,6 +1182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Greedy
 |  |
 | ------- |
