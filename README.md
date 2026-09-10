@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3161-block-placement-queries) |
+| [3206-alternating-groups-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3206-alternating-groups-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -1188,6 +1189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3206-alternating-groups-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3206-alternating-groups-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Greedy
 |  |
