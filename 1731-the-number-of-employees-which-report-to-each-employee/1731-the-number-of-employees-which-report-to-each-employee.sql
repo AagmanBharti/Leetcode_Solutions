@@ -4,4 +4,4 @@ from Employees E1
 right join Employees E2 on E2.employee_id = E1.reports_to
 group by E2.employee_id, E2.name
 having count(E1.employee_id) > 0
-order by E2.employee_id
+order by E2.employee_id;
