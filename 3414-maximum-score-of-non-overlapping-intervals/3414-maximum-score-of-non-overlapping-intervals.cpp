@@ -19,7 +19,7 @@ public:
 
         P take = solve(nextIndex[i], k - 1);
 
-        take.first -= weight; // ref : step 5 if you confuse
+        take.first -= weight; 
         take.second.push_back(originalIndex[{left, right, weight}]);
         sort(take.second.begin(), take.second.end());
 
