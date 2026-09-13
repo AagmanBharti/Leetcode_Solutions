@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0821-shortest-distance-to-a-character](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0827-making-a-large-island](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0860-lemonade-change) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0874-walking-robot-simulation](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0874-walking-robot-simulation) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
