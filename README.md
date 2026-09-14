@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0690-employee-importance) |
 | [0697-degree-of-an-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -1006,6 +1007,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0690-employee-importance](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0690-employee-importance) |
 | [0697-degree-of-an-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0705-design-hashset) |
 | [0721-accounts-merge](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0721-accounts-merge) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0874-walking-robot-simulation) |
@@ -1679,6 +1681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0307-range-sum-query-mutable](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0307-range-sum-query-mutable) |
+| [0705-design-hashset](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0705-design-hashset) |
 | [1622-fancy-sequence](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2069-walking-robot-simulation-ii) |
 ## Rolling Hash
@@ -1691,6 +1694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0572-subtree-of-another-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0705-design-hashset) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Queue
 |  |
@@ -1742,6 +1746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0146-lru-cache](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0705-design-hashset](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0705-design-hashset) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
