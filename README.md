@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0897-increasing-order-search-tree) |
+| [1021-remove-outermost-parentheses](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0942-di-string-match) |
 | [0953-reverse-only-letters](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0953-reverse-only-letters) |
+| [1021-remove-outermost-parentheses](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-longest-string-chain](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1048-longest-string-chain) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -2003,5 +2005,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
