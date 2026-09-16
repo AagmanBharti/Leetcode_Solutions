@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1598-crawler-log-folder](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1598-crawler-log-folder) |
 | [1626-best-team-with-no-conflicts](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1626-best-team-with-no-conflicts) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-path-with-minimum-effort](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1598-crawler-log-folder) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2000-reverse-prefix-of-word](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1544-make-the-string-great](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1544-make-the-string-great) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1598-crawler-log-folder](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1598-crawler-log-folder) |
 | [1668-maximum-repeating-substring](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1668-maximum-repeating-substring) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1736-latest-time-by-replacing-hidden-digits) |
