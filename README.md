@@ -511,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2751-robot-collisions](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2751-robot-collisions) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2490-circular-sentence](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2490-circular-sentence) |
 | [2573-find-the-string-with-lcp](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2573-find-the-string-with-lcp) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -1351,6 +1353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2751-robot-collisions](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
