@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1829-maximum-units-on-a-truck](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1829-maximum-units-on-a-truck) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-maximum-repeating-substring](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1668-maximum-repeating-substring) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1691-maximum-height-by-stacking-cuboids) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1871-jump-game-vii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
