@@ -10,7 +10,7 @@ public:
 
             int newMax = max({x, maxi * x, mini * x});
             int newMin = min({x, maxi * x, mini * x}); 
-
+ 
             maxi = newMax;
             mini = newMin;
             ans = max(maxi, ans);
