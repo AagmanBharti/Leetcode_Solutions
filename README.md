@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0721-accounts-merge](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0721-accounts-merge) |
+| [0724-find-pivot-index](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0748-shortest-completing-word](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0748-shortest-completing-word) |
@@ -1674,6 +1675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
