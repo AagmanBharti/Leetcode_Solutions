@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1306-jump-game-iii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1306-jump-game-iii) |
+| [1314-matrix-block-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1314-matrix-block-sum) |
 | [1340-jump-game-v](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
+| [1314-matrix-block-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1314-matrix-block-sum) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1674,6 +1676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1314-matrix-block-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1314-matrix-block-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
