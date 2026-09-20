@@ -579,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -1038,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0500-keyboard-row) |
 | [0508-most-frequent-subtree-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0508-most-frequent-subtree-sum) |
@@ -1248,6 +1250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
