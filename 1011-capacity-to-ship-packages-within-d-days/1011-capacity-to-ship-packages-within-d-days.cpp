@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool isPossible(vector<int>& weights, int k, int days) {
+    bool isPossible(vector<int>& weights, int days, int k) {
         int day = 1;
         int current = 0;
 
@@ -20,12 +20,12 @@ public:
     int shipWithinDays(vector<int>& weights, int days) {
         int low = *max_element(weights.begin(), weights.end());
         int high = accumulate(weights.begin(), weights.end(), 0);
-        int ans = low;
+        int ans = high;
 
         while (low <= high) {
             int mid = low + (high - low) / 2;
 
-            if (isPossible(weights, mid, days)) {
+            if (isPossible(weights, days, mid)) {
                 ans = mid;
                 high = mid - 1;
             } else {
