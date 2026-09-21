@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1539-kth-missing-positive-number](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1552-magnetic-force-between-two-balls](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1157,6 +1158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -1216,6 +1218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1552-magnetic-force-between-two-balls](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1626-best-team-with-no-conflicts](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1626-best-team-with-no-conflicts) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1691-maximum-height-by-stacking-cuboids) |
