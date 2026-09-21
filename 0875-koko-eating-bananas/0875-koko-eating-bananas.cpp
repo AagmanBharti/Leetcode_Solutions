@@ -3,12 +3,11 @@ public:
     bool isPossible(vector<int>& piles, int h, int k){
         long long hours = 0;
 
-        for(int bananas : piles){
-            hours += (bananas + k - 1) / k;
-
-            if(hours > h) return false;
+        for(int pile : piles){
+            hours += (pile + k - 1)/k;
         }
-        return true;
+
+        return hours <= h;
     }
 
     int minEatingSpeed(vector<int>& piles, int h) {
