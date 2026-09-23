@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0897-increasing-order-search-tree) |
+| [0901-online-stock-span](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1779,6 +1781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0307-range-sum-query-mutable](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0705-design-hashset](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0705-design-hashset) |
+| [0901-online-stock-span](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0901-online-stock-span) |
 | [1622-fancy-sequence](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2069-walking-robot-simulation-ii) |
 ## Rolling Hash
@@ -2094,4 +2097,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0069-sqrtx) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
