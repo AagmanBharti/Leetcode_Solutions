@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0224-basic-calculator](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0344-reverse-string) |
@@ -1476,6 +1478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0233-number-of-digit-one) |
 | [0342-power-of-four](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0342-power-of-four) |
