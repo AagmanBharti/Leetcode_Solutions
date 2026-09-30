@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1829-maximum-units-on-a-truck](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1829-maximum-units-on-a-truck) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -1449,6 +1450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1914-cyclically-rotating-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2058-concatenation-of-array) |
@@ -1538,6 +1540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1872-stone-game-viii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1903-largest-odd-number-in-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -1590,6 +1593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
@@ -1854,6 +1858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Union-Find
 |  |
