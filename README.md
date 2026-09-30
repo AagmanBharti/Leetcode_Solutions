@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2058-concatenation-of-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2058-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -1452,6 +1453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2058-concatenation-of-array) |
 | [2069-walking-robot-simulation-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2069-walking-robot-simulation-ii) |
+| [2073-time-needed-to-buy-tickets](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -1852,6 +1854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Union-Find
 |  |
 | ------- |
