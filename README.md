@@ -1832,6 +1832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0705-design-hashset) |
+| [0707-design-linked-list](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0901-online-stock-span) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1622-fancy-sequence](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1622-fancy-sequence) |
@@ -1908,6 +1909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0705-design-hashset) |
+| [0707-design-linked-list](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0707-design-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
