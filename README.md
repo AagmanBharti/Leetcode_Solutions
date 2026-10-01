@@ -1906,6 +1906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0146-lru-cache](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0328-odd-even-linked-list](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0705-design-hashset) |
