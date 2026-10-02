@@ -10,30 +10,53 @@
  */
 class Solution {
 public:
-    bool palindrome(vector<int>& list) {
-        int i = 0, j = list.size() - 1;
 
-        while (i < j) {
-            if (list[i] != list[j])
-                return false;
-            i++;
-            j--;
+    ListNode* reverse(ListNode* head) {
+        ListNode* prev = nullptr;
+        ListNode* curr = head;
+
+        while (curr != nullptr) {
+            ListNode* next = curr->next;
+
+            curr->next = prev;
+
+            prev = curr;
+            curr = next;
         }
-        return true;
+
+        return prev;
     }
 
     bool isPalindrome(ListNode* head) {
-        vector<int> list;
 
-        ListNode* temp = head;
-
-        while (temp != nullptr) {
-            list.push_back(temp->val);
-            temp = temp->next;
+        if (head == nullptr || head->next == nullptr) {
+            return true;
         }
 
-        if (palindrome(list))
-            return true;
-        return false;
+        // 1. Find middle
+        ListNode* slow = head;
+        ListNode* fast = head;
+
+        while (fast != nullptr && fast->next != nullptr) {
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+
+        // 2. Reverse second half
+        ListNode* secondHalf = reverse(slow);
+
+        // 3. Compare first and second half
+        ListNode* firstHalf = head;
+
+        while (secondHalf != nullptr) {
+            if (firstHalf->val != secondHalf->val) {
+                return false;
+            }
+
+            firstHalf = firstHalf->next;
+            secondHalf = secondHalf->next;
+        }
+
+        return true;
     }
 };
