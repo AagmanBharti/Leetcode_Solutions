@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1019-next-greater-node-in-linked-list](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1020-number-of-enclaves](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1035-uncrossed-lines](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1035-uncrossed-lines) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1019-next-greater-node-in-linked-list](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1948,6 +1951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
