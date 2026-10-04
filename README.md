@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0647-palindromic-substrings) |
 | [0664-strange-printer](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0654-maximum-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0664-strange-printer](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0664-strange-printer) |
+| [0678-valid-parenthesis-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -1384,6 +1387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0860-lemonade-change) |
@@ -2196,6 +2200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
