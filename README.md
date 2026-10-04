@@ -1117,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0460-lfu-cache](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0500-keyboard-row) |
 | [0508-most-frequent-subtree-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0508-most-frequent-subtree-sum) |
@@ -1863,6 +1864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0307-range-sum-query-mutable](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0307-range-sum-query-mutable) |
+| [0460-lfu-cache](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0705-design-hashset) |
@@ -1953,6 +1955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0460-lfu-cache](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0705-design-hashset) |
@@ -1966,6 +1969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0460-lfu-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Graph Theory
 |  |
