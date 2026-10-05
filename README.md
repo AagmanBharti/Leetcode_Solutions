@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
@@ -1113,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0409-longest-palindrome) |
@@ -1270,6 +1272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
@@ -1446,6 +1449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0561-array-partition) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -1503,6 +1507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0743-network-delay-time](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
@@ -1698,6 +1703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0307-range-sum-query-mutable) |
+| [0347-top-k-frequent-elements](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0654-maximum-binary-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -2035,6 +2041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0220-contains-duplicate-iii) |
+| [0347-top-k-frequent-elements](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -2232,4 +2239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0901-online-stock-span) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
