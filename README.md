@@ -2249,4 +2249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
