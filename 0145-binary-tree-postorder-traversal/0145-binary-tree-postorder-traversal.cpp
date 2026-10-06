@@ -11,17 +11,16 @@
  */
 class Solution {
 public:
+    void dfs(TreeNode* root, vector<int>& res){
+        if(!root) return;
+        dfs(root->left, res);
+        dfs(root->right, res);
+        res.push_back(root->val);
+    }
 
-   void dfs(TreeNode* root, vector<int>& result){
-    if(root == NULL) return;
-    dfs(root->left, result);
-    dfs(root->right, result);
-    result.push_back(root->val);
-   }
-   
     vector<int> postorderTraversal(TreeNode* root) {
-        vector<int> result;
-        dfs(root, result);
-        return result;
+        vector<int> res;
+        dfs(root, res);
+        return res;
     }
 };
