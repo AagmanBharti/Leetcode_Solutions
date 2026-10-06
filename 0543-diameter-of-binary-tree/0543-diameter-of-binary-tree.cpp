@@ -11,10 +11,10 @@
  */
 class Solution {
 public:
-    int solve(TreeNode* node, int& diameter){
-        if(node == NULL) return 0;
-        int lh = solve(node->left, diameter);
-        int rh = solve(node->right, diameter);
+    int solve(TreeNode* root, int& diameter){
+        if(root == NULL) return 0;
+        int lh = solve(root->left, diameter);
+        int rh = solve(root->right, diameter);
         diameter = max(diameter, lh + rh);
         return 1 + max(lh, rh);
     }
