@@ -629,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0383-ransom-note) |
@@ -907,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0513-find-bottom-left-tree-value) |
@@ -1734,6 +1736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0126-word-ladder-ii) |
 | [0257-binary-tree-paths](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0813-all-paths-from-source-to-target) |
