@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2463-minimum-total-distance-traveled) |
@@ -1257,6 +1258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2540-minimum-common-value) |
 | [2634-minimum-common-value](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2634-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1331,6 +1333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2463-minimum-total-distance-traveled](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2784-check-if-array-is-good) |
@@ -1447,6 +1450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2573-find-the-string-with-lcp) |
@@ -1541,6 +1545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
