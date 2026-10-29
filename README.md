@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1340-jump-game-v](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1340-jump-game-v) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -809,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -892,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1192-critical-connections-in-a-network](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1306-jump-game-iii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1306-jump-game-iii) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -1044,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -2148,6 +2152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0938-range-sum-of-bst) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Iterator
 |  |
@@ -2300,6 +2305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
