@@ -7,27 +7,26 @@ public:
 
         vector<vector<int>> ans = image;
         ans[sr][sc] = color;
-        queue<pair<int,int>> q;
-        q.push({sr,sc});
-
         int drow[] = {-1,0,1,0};
         int dcol[] = {0,1,0,-1};
+
+        queue<pair<int, int>> q;
+        q.push({sr,sc});
 
         while(!q.empty()){
             int row = q.front().first;
             int col = q.front().second;
+
             q.pop();
+            for(int i = 0;i < 4;i++){
+                int nr = row + drow[i];
+                int nc = col + dcol[i];
 
-            for(int i=0;i<4;i++){
-                int nrow = row + drow[i];
-                int ncol = col + dcol[i];
-
-                if(nrow >= 0 && nrow < m && ncol >= 0 && ncol < n && image[nrow][ncol] == iniColor && ans[nrow][ncol] != color){
-                    ans[nrow][ncol] = color;
-                    q.push({nrow,ncol});
-                } 
+                if(nr >= 0 && nr < m && nc >= 0 && nc < n && image[nr][nc] == iniColor && ans[nr][nc] != color){
+                    ans[nr][nc] = color;
+                    q.push({nr, nc});
+                }
             }
-
         }
         return ans;
     }
