@@ -6,30 +6,29 @@ public:
         if(grid[0][0] == 1) return -1;
         if(grid[n-1][n-1] == 1) return -1;
 
-        vector<vector<int>> vis(n, vector<int>(n,0));
-        queue<pair<int, pair<int, int>>> q;
+        vector<vector<int>> vis(n, vector<int>(n, 0));
+        queue<pair<pair<int, int>, int>> q;
 
-        vis[0][0] = 1;
-        q.push({1,{0,0}});
+        q.push({{0,0}, 1});
 
-        int delrow[] = {-1, -1, -1, 0, 1, 1, 1, 0};
-        int delcol[] = {-1, 0, 1, 1, 1, 0, -1, -1};
+        int dr[] = {-1, -1, -1, 0, 1, 1, 1, 0};
+        int dc[] = {-1, 0, 1, 1, 1, 0, -1, -1};
 
         while(!q.empty()){
-            int dis = q.front().first;
-            int row = q.front().second.first;
-            int col = q.front().second.second;
+            int row = q.front().first.first;
+            int col = q.front().first.second;
+            int dist = q.front().second;
             q.pop();
 
-            if(row == n-1 && col == n-1) return dis;
+            if(row == n-1 && col == n-1) return dist;
 
             for(int i = 0;i < 8;i++){
-                int nrow = row + delrow[i];
-                int ncol = col + delcol[i];
+                int newr = row + dr[i];
+                int newc = col + dc[i];
 
-                if(nrow >= 0 && ncol >= 0 && nrow < n && ncol < n && grid[nrow][ncol] == 0 && !vis[nrow][ncol]){
-                    vis[nrow][ncol] = 1;
-                    q.push({dis+1, {nrow,ncol}});
+                if(newr >= 0 && newc >= 0 && newr < n && newc < n && !vis[newr][newc] && grid[newr][newc] == 0){
+                    vis[newr][newc] = 1;
+                    q.push({{newr, newc}, dist + 1});
                 }
             }
         }
