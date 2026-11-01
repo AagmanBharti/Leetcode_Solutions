@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0413-arithmetic-slices) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
@@ -1609,6 +1610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0396-rotate-function) |
 | [0445-add-two-numbers-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
