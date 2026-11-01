@@ -912,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2331-evaluate-boolean-binary-tree) |
+| [2360-longest-cycle-in-a-graph](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -983,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2360-longest-cycle-in-a-graph](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1749,6 +1751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0802-find-eventual-safe-states) |
+| [2360-longest-cycle-in-a-graph](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -2065,6 +2068,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-find-center-of-star-graph](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2360-longest-cycle-in-a-graph](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3310-remove-methods-from-project) |
@@ -2201,10 +2205,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0802-find-eventual-safe-states) |
+| [2360-longest-cycle-in-a-graph](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Tarjan's SCC Algorithm
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0802-find-eventual-safe-states) |
+| [2360-longest-cycle-in-a-graph](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Minimax
 |  |
 | ------- |
