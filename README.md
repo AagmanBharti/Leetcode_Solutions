@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0890-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0904-fruit-into-baskets) |
+| [0909-snakes-and-ladders](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0827-making-a-large-island) |
 | [0835-image-overlap](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0835-image-overlap) |
+| [0909-snakes-and-ladders](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0909-snakes-and-ladders) |
 | [0931-minimum-falling-path-sum](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
@@ -974,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0909-snakes-and-ladders](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0909-snakes-and-ladders) |
 | [0965-univalued-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
