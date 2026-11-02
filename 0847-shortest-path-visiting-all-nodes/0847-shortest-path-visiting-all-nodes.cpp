@@ -1,60 +1,49 @@
 class Solution {
 public:
-    int shortestPathLength(vector<vector<int>>& graph) {
+    typedef pair<int, int> P;
 
+    int shortestPathLength(vector<vector<int>>& graph) {
         int n = graph.size();
 
-        queue<pair<int, vector<bool>>> q;
+        if (n == 1 || n == 0)
+            return 0;
 
-        set<pair<int, vector<bool>>> visited;
+        queue<P> q;     //{node, mask}
+        set<P> visited; //{node, pathMask}
 
         for (int i = 0; i < n; i++) {
-            vector<bool> vis(n, false);
-            vis[i] = true;
-
-            q.push({i, vis});
-            visited.insert({i, vis});
+            int maskValue = (1 << i);
+            q.push({i, maskValue});
+            visited.insert({i, maskValue});
         }
 
-        int steps = 0;
+        int allVisited = (1 << n) - 1; // 2 powered to n
+
+        int path = 0;
 
         while (!q.empty()) {
-
             int size = q.size();
+            path++;
 
             while (size--) {
-
-                auto [node, vis] = q.front();
+                auto curr = q.front();
                 q.pop();
 
-                bool allVisited = true;
+                int currNode = curr.first;
+                int currMask = curr.second;
 
-                for (bool x : vis) {
-                    if (!x) {
-                        allVisited = false;
-                        break;
-                    }
-                }
+                for (auto it : graph[currNode]) {
+                    int nextMask = currMask | (1 << it);
 
-                if (allVisited)
-                    return steps;
-
-                for (int neighbor : graph[node]) {
-
-                    vector<bool> newVis = vis;
-                    newVis[neighbor] = true;
-
-                    if (!visited.count({neighbor, newVis})) {
-
-                        visited.insert({neighbor, newVis});
-                        q.push({neighbor, newVis});
+                    if (nextMask == allVisited)
+                        return path;
+                    if (visited.find({it, nextMask}) == visited.end()) {
+                        visited.insert({it, nextMask});
+                        q.push({it, nextMask});
                     }
                 }
             }
-
-            steps++;
         }
-
         return -1;
     }
 };
