@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2126-destroying-asteroids](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -721,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -1222,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1980-find-unique-binary-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1980-find-unique-binary-string) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -1769,6 +1772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0802-find-eventual-safe-states) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Divide and Conquer
 |  |
@@ -2088,6 +2092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1791-find-center-of-star-graph](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -2222,6 +2227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0207-course-schedule) |
 | [0797-all-paths-from-source-to-target](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
