@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2615-sum-of-distances) |
 | [2634-minimum-common-value](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2634-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2751-robot-collisions) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -1234,6 +1235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2615-sum-of-distances) |
 | [2634-minimum-common-value](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2634-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -1388,6 +1390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2463-minimum-total-distance-traveled](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2463-minimum-total-distance-traveled) |
+| [2747-count-zero-request-servers](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -1440,6 +1443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2747-count-zero-request-servers](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2747-count-zero-request-servers) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
