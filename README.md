@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3355-zero-array-transformation-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3355-zero-array-transformation-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -1450,6 +1451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-alternating-groups-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3206-alternating-groups-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Greedy
 |  |
@@ -1936,6 +1938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3355-zero-array-transformation-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3355-zero-array-transformation-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
