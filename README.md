@@ -729,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -1576,6 +1577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2553-separate-the-digits-in-an-array) |
