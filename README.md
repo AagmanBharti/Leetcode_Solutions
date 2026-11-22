@@ -730,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
