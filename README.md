@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3905-multi-source-flood-fill](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3905-multi-source-flood-fill) |
+| [3934-smallest-unique-subarray](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1287,6 +1288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3934-smallest-unique-subarray](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -1350,6 +1352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3934-smallest-unique-subarray](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -2026,6 +2029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3934-smallest-unique-subarray](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
@@ -2033,6 +2037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/0705-design-hashset) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3934-smallest-unique-subarray](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Queue
 |  |
 | ------- |
@@ -2443,4 +2448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
