@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3905-multi-source-flood-fill](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3905-multi-source-flood-fill) |
 | [3934-smallest-unique-subarray](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Matrix
 |  |
 | ------- |
@@ -1557,6 +1559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-maximum-total-subarray-value-ii](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/AagmanBharti/Leetcode_Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Counting Sort
 |  |
 | ------- |
